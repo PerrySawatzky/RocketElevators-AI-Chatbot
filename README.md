@@ -19,7 +19,7 @@ The purpose of this repo is to demonstrate our dialogFlow chatbot with our datab
 ## Setup
 Set up with a project like this is a little different since the project is within an online code editor. But here you all are anyways!
 
-- Step 1: Create ypur very own Google Cloud account with a linked credit card. (We used their free trial and you should too.)
+- Step 1: Create your very own Google Cloud account with a linked credit card. (We used their free trial and you should too.)
 - Step 2: Add our intents to your dialogflow.cloud.google.com account Intents. I'm not sure you can actually import the json files we have attached but take their names, parse with your eyes for the other pertinent information in their json and add it to the intent. 
 - Step 3: For each intent ensure you enable the 'Enable Webhook for this Intent' toggle at the bottom of the page for each intent.
 - Step 4: Navigate to the Fulfillment tab and toggle on the Inline Editor. (This is the step that needs you to link your billing account) 
